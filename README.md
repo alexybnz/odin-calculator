@@ -2,6 +2,10 @@
 
 A simple, interactive calculator built with HTML, CSS, and JavaScript as part of the Foundations Course of The Odin Project. This project demonstrates core JavaScript concepts such as DOM manipulation, event handling, and application state management.
 
+## Live Demo
+
+🔗 [Live Preview](https://alexybnz.github.io/odin-calculator/)
+
 ## Repository
 
 🔗 [Source Code](https://github.com/alexybnz/odin-calculator)
